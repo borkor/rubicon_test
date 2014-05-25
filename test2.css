@@ -1,0 +1,6 @@
+
+tr#userInfoBlock, 
+tr#addressBlock, 
+tr#contactBlock {
+	display:none;
+}
