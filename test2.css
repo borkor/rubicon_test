@@ -3,11 +3,11 @@ table#defaultPaymentTable tr#userInfoBlock {
 	display:none;
 }
 
-defaultPaymentTable tr#addressBlock { 
+table#defaultPaymentTable tr#addressBlock { 
 	display:none;
 } 
 
-defaultPaymentTable tr#contactBlock {
+table#defaultPaymentTable tr#contactBlock {
 	display:none;
 }
 
