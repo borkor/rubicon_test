@@ -1,6 +1,12 @@
 
-tr#userInfoBlock, 
-tr#addressBlock, 
-tr#contactBlock {
+table#defaultPaymentTable tr#userInfoBlock {
+	display:none;
+}
+
+defaultPaymentTable tr#addressBlock { 
+	display:none;
+} 
+
+defaultPaymentTable tr#contactBlock {
 	display:none;
 }
