@@ -11,3 +11,8 @@ table#defaultPaymentTable tr#contactBlock {
 	display:none;
 }
 
+
+tr#cardOwnerRow {
+	display: none;
+	
+}
