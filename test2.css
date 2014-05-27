@@ -132,7 +132,7 @@ font-style:normal; font-variant:normal; font-weight:normal; color:#000000; margi
 
 
 
-table#defaultPaymentTable tr#userInfoBlock {
+/*table#defaultPaymentTable tr#userInfoBlock {
 	display:none;
 }
 
@@ -143,4 +143,4 @@ table#defaultPaymentTable tr#addressBlock {
 table#defaultPaymentTable tr#contactBlock {
 	display:none;
 }
-
+*/
